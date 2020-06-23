@@ -1,0 +1,14 @@
+
+footer{
+    border-top: 5px double orangered;
+    line-height: 25px;
+    
+    
+    clear: both;
+}
+footer ul {
+    list-style: none;
+}
+.bottom-footer{
+    text-align: center;
+}

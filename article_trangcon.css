@@ -1,0 +1,84 @@
+article{
+    max-width: 100%;
+    position: relative;
+    padding: 100px;
+
+}
+
+#art-left{
+    width: 50%;
+    display: block;
+    float: left
+
+}
+#art-left>img{
+    padding-left: 150px;
+    margin-top: 0px;
+    width: 400px;
+    height: 300px;    
+}
+#art-right{
+    width: 50%;
+    float: right;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    box-shadow: 0 0 5px gray;
+    box-sizing: border-box;
+    height: 300px;
+}
+.name-sp{
+    color: red;
+    background-color: whitesmoke;
+    text-align: center;
+}
+.text-in{
+    float: left;
+    padding-left: 180px;
+    margin-bottom: 20px;
+}
+.cost{
+    font-size: 30px;
+    color: black;
+}
+.condition>p:after{
+    content: "Con";
+    color: green;
+    margin: 10px;
+
+}
+.nut{
+    
+    background-color: lawngreen;
+    font-size: 20px;
+    width: 500px;
+    height: 40px;
+
+    
+}
+.nut:hover{
+    background-color: orangered;
+    color: white;
+}
+.another-prod{
+    
+    text-align: center;
+}
+
+.goi-y-san-pham{
+    clear: both;
+    float: left;
+    padding-left: 0px;
+    margin-left:80px;
+    width: 100%;
+}
+.product {
+    float: left;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
